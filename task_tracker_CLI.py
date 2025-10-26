@@ -4,7 +4,7 @@ import os
 import datetime
 
 # File to store tasks
-TASKS_FILE = "tasks.json"
+TASKS_FILE = "tasks_CLI.json"
 
 # Load tasks from JSON file
 def load_tasks():
